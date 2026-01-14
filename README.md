@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rishabh  <br><br>🎓 MCA Student | 💻 MERN Stack Developer (Learning)  <br>🌐 Frontend: HTML, CSS, JavaScript, React  <br>⚙️ Backend: Node.js, Express.js  <br>🗄️ Database: MongoDB  <br>🧠 Strong interest in Problem Solving & DSA  <br><br>🚀 I enjoy building real-world web applications and learning how scalable systems work.  <br>📈 Currently focused on improving my full-stack skills and preparing for tech roles.<br><br>📫 Let's connect and grow together!<br>
+👋 Hi, I'm Rishabh  <br><br>🎓 MCA Student | 💻 MERN Stack Developer  <br>🌐 Frontend: HTML, CSS, JavaScript, Reactjs  <br>⚙️ Backend: Node.js, Express.js  <br>🗄️ Database: MongoDB  <br>🧠 Strong interest in Problem Solving & DSA  <br><br>🚀 I enjoy building real-world web applications and learning how scalable systems work.  <br>📈 Currently focused on improving my full-stack skills and preparing for tech roles.<br><br>📫 Let's connect and grow together!<br>
 
 
 ## 🌐 Socials:
