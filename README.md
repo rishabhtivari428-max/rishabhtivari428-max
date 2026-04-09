@@ -1,33 +1,82 @@
 # 💫 About Me:
-👋 Hi, I'm Rishabh  <br><br>🎓 MCA Student | 💻 MERN Stack Developer  <br>🌐 Frontend: HTML, CSS, JavaScript, Reactjs, Threejs  <br>⚙️ Backend: Node.js, Express.js  <br>🗄️ Database: MongoDB  <br>🧠 Strong interest in Problem Solving & DSA  <br><br>🚀 I enjoy building real-world web applications and learning how scalable systems work.  <br>📈 Currently focused on improving my full-stack skills and preparing for tech roles.<br><br>📫 Let's connect and grow together!<br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Rishabh;MERN+Stack+Developer;Frontend+%2B+Backend+Learner;Building+Cool+Web+Apps+🚀" />
+</p>
 
-## 🌐 Socials: 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/🔥🔥Rishabh Tivari🔥🔥) 
-[![Instagram]([![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.instagram.com/rishabh_sharma14____?igsh=aGhmZzMxZXp0ZzV6))](https://instagram.com/rishabh_sharma___) )](https://instagram.com/rishabh_sharma___) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/🔥🔥Rishabh Tivari🔥🔥)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/🔥🔥Rishabh Tivari🔥🔥) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@🔥🔥Rishabh Tivari🔥🔥)  
+👋 Hi, I'm **Rishabh**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishabhtivari428-max&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rishabhtivari428-max&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhtivari428-max&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 MCA Student | 💻 MERN Stack Developer
+🌐 Frontend: HTML, CSS, JavaScript, React.js, Three.js
+⚙️ Backend: Node.js, Express.js
+🗄️ Database: MongoDB
+🧠 Strong interest in Problem Solving & DSA
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishabhtivari428-max&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🚀 I enjoy building real-world web applications and learning how scalable systems work.
+📈 Currently focused on improving my full-stack skills and preparing for tech roles.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rishabhtivari428-max&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📫 Let's connect and grow together!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishabhtivari428-max&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Socials:
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.instagram.com/rishabh_sharma14____?igsh=aGhmZzMxZXp0ZzV6">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishabh-sharma-77b899397?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.whatsapp.com/">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,nodejs,express,mongodb,tailwind,redux,nextjs,git,github,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhtivari428-max&theme=radical&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rishabhtivari428-max&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhtivari428-max&theme=radical&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhtivari428-max&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rishabhtivari428-max&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rishabhtivari428-max&icon=0&color=0" />
+</p>
