@@ -4,7 +4,7 @@
 
 ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/🔥🔥Rishabh Tivari🔥🔥) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishabh_sharma___) 
+[![Instagram]([![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.instagram.com/rishabh_sharma14____?igsh=aGhmZzMxZXp0ZzV6))](https://instagram.com/rishabh_sharma___) )](https://instagram.com/rishabh_sharma___) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/🔥🔥Rishabh Tivari🔥🔥)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/🔥🔥Rishabh Tivari🔥🔥) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@🔥🔥Rishabh Tivari🔥🔥)  
