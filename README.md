@@ -6,7 +6,7 @@
 
 👋 Hi, I'm **Rishabh**
 
-🎓 MCA Student | 💻 MERN Stack Developer
+💻 MERN Stack Developer
 🌐 Frontend: HTML, CSS, JavaScript, React.js, Three.js
 ⚙️ Backend: Node.js, Express.js
 🗄️ Database: MongoDB
